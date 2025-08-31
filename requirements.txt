@@ -1,0 +1,10 @@
+﻿opencv-python
+mediapipe
+numpy
+scikit-learn
+pygame
+gTTS
+pandas
+joblib
+torch
+transformers
